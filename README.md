@@ -8,10 +8,8 @@ In this repo I mentioned 3 projects named
 I completed the following objectives: 
 
 * Exploratory Data Analysis (EDA)
-
-Read, clean up and visualize the data
-
-Most influence feature in the data
+* Read, clean up and visualize the data
+* Most influence feature in the data
 
 Merging DataFrames
 
