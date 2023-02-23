@@ -1,7 +1,8 @@
 # Datacamp_project
 In this repo I mentioned 3 projects named
-i) The GitHub History of the Scala Language  ii) Investigating Netflix Movies and Guest Stars in the office
-iii) The Android App Market on Google Play
+
+# i) The GitHub History of the Scala Language  ii) Investigating Netflix Movies and Guest Stars in the office  iii) The Android App Market on Google Play
+
 I completed the following objectives: 
 Exploratory Data Analysis (EDA)
 Read, clean up and visualize the data
