@@ -6,10 +6,15 @@ In this repo I mentioned 3 projects named
 # iii) The Android App Market on Google Play
 
 I completed the following objectives: 
-Exploratory Data Analysis (EDA)
+
+* Exploratory Data Analysis (EDA)
+
 Read, clean up and visualize the data
+
 Most influence feature in the data
+
 Merging DataFrames
+
 creating dataFrame from a dictionary
 Filtering the data accoring to important features
 scatter plot, bar plot, histogram plot, box plot
