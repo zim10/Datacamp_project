@@ -10,13 +10,11 @@ I completed the following objectives:
 * Exploratory Data Analysis (EDA)
 * Read, clean up and visualize the data
 * Most influence feature in the data
-
-Merging DataFrames
-
-creating dataFrame from a dictionary
-Filtering the data accoring to important features
-scatter plot, bar plot, histogram plot, box plot
-Marking not important features
-Distribution of the data
-relation of the various features in the dataset
-sentimenta analysis of user reviews in project (iii)
+* Merging DataFrames
+* creating dataFrame from a dictionary
+* Filtering the data accoring to important features
+* Scatter plot, bar plot, histogram plot, box plot
+* Marking not important features
+* Distribution of the data
+* Relation of the various features in the dataset
+* Sentimenta analysis of user reviews in project (iii)
